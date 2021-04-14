@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @m0rtifiedpenguin
+- 👀 I’m interested in anything infosec related, particularly pentesting
+- 🌱 I’m currently studying for Sec+
+- 💞️ I’m looking to collaborate on anything related to infosec or algorithmic trading
+- 📫 How to reach me: email = jpgbrumbaugh@protonmail.com   twitter = @m0rtifiedpeng1
