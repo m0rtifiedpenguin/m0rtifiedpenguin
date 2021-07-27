@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m0rtifiedpenguin aka Jacob Brumbaugh
 - 👀 I’m interested in anything related to information security, particularly penetration testing
-- 🌱 I’m currently studying for my Security+ certifcation and seeking a career in information security 
+- 🌱 I’m currently studying for my Security+ certifcation
 - 💞️ I’m looking to collaborate on anything related to information security or penetration testing
 - 📫 How to reach me: email = jpgbrumbaugh@protonmail.com | twitter = @m0rtifiedpeng1
