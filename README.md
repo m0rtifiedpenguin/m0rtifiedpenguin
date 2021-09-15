@@ -1,5 +1,25 @@
-- 👋 Hi, I’m @m0rtifiedpenguin aka Jacob Brumbaugh
-- 👀 I’m interested in anything related to information security, particularly penetration testing
-- 🌱 I’m currently studying for my Security+ certifcation
-- 💞️ I’m looking to collaborate on anything related to information security or penetration testing
-- 📫 How to reach me: email = jpgbrumbaugh@protonmail.com | twitter = @m0rtifiedpeng1
+## I'm Jacob. Welcome to my github!
+
+### I'm pursuing a passion for information security and recently obtained CompTIA Security+ certification.
+
+I am an information security researcher, aspiring penetration tester, climber, and occasional gamer.
+
+You can reach me at jpgbrumbaugh@protonmail.com.
+
+🌱 I’m currently learning python and offensive security/penetration testing!
+
+### Tech Stack:
+
+- Linux & Windows
+- Active Directory
+- Wireshark
+- Metasploit
+- Burp Suite
+- Azure
+- Splunk & Kibana
+- Packet & Log Analysis
+- Cloud Security
+- Vulnerability Assessment
+- Cybersecurity Risk Management
+- Bash
+- PowerShell
