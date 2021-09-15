@@ -1,6 +1,6 @@
 ## I'm Jacob. Welcome to my github!
 
-### I'm pursuing a passion for information security and recently obtained CompTIA Security+ certification.
+### I'm pursuing a passion for information security and recently obtained my CompTIA Security+ certification.
 
 I am an information security researcher, aspiring penetration tester, climber, and occasional gamer.
 
