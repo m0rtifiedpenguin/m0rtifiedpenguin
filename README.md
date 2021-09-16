@@ -8,7 +8,7 @@ You can reach me at jpgbrumbaugh@protonmail.com.
 
 🌱 I’m currently learning python and offensive security/penetration testing!
 
-### Tech Stack:
+### Technical Skills & Core Competencies:
 
 - Linux & Windows
 - Active Directory
